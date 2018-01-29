@@ -1,0 +1,921 @@
+/* http://0.0.0.0:9005/api/meeting/getnavigationorgan */
+[
+  {
+      "id": 40,
+      "orgId": null,
+      "orgName": "Academic Society of Competition Law",
+      "meetingCount": "2",
+      "resourceCount": "24",
+      "shortName": "ASCOLA",
+      "logo": null
+  },
+  {
+      "id": 21,
+      "orgId": null,
+      "orgName": "Academy of Human Resource Development",
+      "meetingCount": "5",
+      "resourceCount": "136",
+      "shortName": "AHRD",
+      "logo": null
+  },
+  {
+      "id": 30,
+      "orgId": null,
+      "orgName": "Academy of Management",
+      "meetingCount": "52",
+      "resourceCount": "501",
+      "shortName": "AOM",
+      "logo": null
+  },
+  {
+      "id": 36,
+      "orgId": null,
+      "orgName": "Acoustical Society of America",
+      "meetingCount": "78",
+      "resourceCount": "1419",
+      "shortName": "ASA",
+      "logo": null
+  },
+  {
+      "id": 53,
+      "orgId": null,
+      "orgName": "Allied Social Science Association",
+      "meetingCount": "28",
+      "resourceCount": "1242",
+      "shortName": "ASSA",
+      "logo": null
+  },
+  {
+      "id": 25,
+      "orgId": null,
+      "orgName": "America Literature Association",
+      "meetingCount": "14",
+      "resourceCount": "196",
+      "shortName": "ALA",
+      "logo": null
+  },
+  {
+      "id": 97,
+      "orgId": null,
+      "orgName": "America Optical Society",
+      "meetingCount": "38",
+      "resourceCount": "26",
+      "shortName": "OSA",
+      "logo": null
+  },
+  {
+      "id": 2,
+      "orgId": null,
+      "orgName": "American Accounting Association",
+      "meetingCount": "18",
+      "resourceCount": "138",
+      "shortName": "AAA",
+      "logo": null
+  },
+  {
+      "id": 5,
+      "orgId": null,
+      "orgName": "American Association for Cancer Research",
+      "meetingCount": "25",
+      "resourceCount": "182",
+      "shortName": "AACR",
+      "logo": null
+  },
+  {
+      "id": 10,
+      "orgId": null,
+      "orgName": "American Association for Thoracic Surgery",
+      "meetingCount": "13",
+      "resourceCount": "667",
+      "shortName": "AATS",
+      "logo": null
+  },
+  {
+      "id": 8,
+      "orgId": null,
+      "orgName": "American Association of Pharmaceutical Scientists",
+      "meetingCount": "33",
+      "resourceCount": "2461",
+      "shortName": "AAPS",
+      "logo": null
+  },
+  {
+      "id": 9,
+      "orgId": null,
+      "orgName": "American Astronomical Society",
+      "meetingCount": "47",
+      "resourceCount": "245",
+      "shortName": "AAS",
+      "logo": null
+  },
+  {
+      "id": 14,
+      "orgId": null,
+      "orgName": "American Chemical Society",
+      "meetingCount": "185",
+      "resourceCount": "1513",
+      "shortName": "ACS",
+      "logo": null
+  },
+  {
+      "id": 15,
+      "orgId": null,
+      "orgName": "American Economic Association",
+      "meetingCount": "27",
+      "resourceCount": "2935",
+      "shortName": "AEA",
+      "logo": null
+  },
+  {
+      "id": 18,
+      "orgId": null,
+      "orgName": "American Educational Research Association",
+      "meetingCount": "17",
+      "resourceCount": "176",
+      "shortName": "AERA",
+      "logo": null
+  },
+  {
+      "id": 19,
+      "orgId": null,
+      "orgName": "American Finance Association",
+      "meetingCount": "17",
+      "resourceCount": "688",
+      "shortName": "AFA",
+      "logo": null
+  },
+  {
+      "id": 20,
+      "orgId": null,
+      "orgName": "American Geophysical Union",
+      "meetingCount": "59",
+      "resourceCount": "731",
+      "shortName": "AGU",
+      "logo": null
+  },
+  {
+      "id": 22,
+      "orgId": null,
+      "orgName": "American Institute of Aeronautics and Astronautics",
+      "meetingCount": "512",
+      "resourceCount": "11394",
+      "shortName": "AIAA",
+      "logo": null
+  },
+  {
+      "id": 24,
+      "orgId": null,
+      "orgName": "American Institute of Chemical Engineers",
+      "meetingCount": "90",
+      "resourceCount": "5265",
+      "shortName": "AIChE",
+      "logo": null
+  },
+  {
+      "id": 26,
+      "orgId": null,
+      "orgName": "American Literary Translators Association",
+      "meetingCount": "14",
+      "resourceCount": "171",
+      "shortName": "ALTA",
+      "logo": null
+  },
+  {
+      "id": 28,
+      "orgId": null,
+      "orgName": "American Marketing Association",
+      "meetingCount": "19",
+      "resourceCount": "328",
+      "shortName": "AMA",
+      "logo": null
+  },
+  {
+      "id": 29,
+      "orgId": null,
+      "orgName": "American Nuclear Society",
+      "meetingCount": "62",
+      "resourceCount": "402",
+      "shortName": "ANS",
+      "logo": null
+  },
+  {
+      "id": 31,
+      "orgId": null,
+      "orgName": "American Philosophical Association",
+      "meetingCount": "30",
+      "resourceCount": "478",
+      "shortName": "APA",
+      "logo": null
+  },
+  {
+      "id": 32,
+      "orgId": null,
+      "orgName": "American Physical Society",
+      "meetingCount": "129",
+      "resourceCount": "20716",
+      "shortName": "APS",
+      "logo": null
+  },
+  {
+      "id": 116,
+      "orgId": null,
+      "orgName": "American Planning Association",
+      "meetingCount": "16",
+      "resourceCount": "208",
+      "shortName": "",
+      "logo": null
+  },
+  {
+      "id": 33,
+      "orgId": null,
+      "orgName": "American Political Science Association",
+      "meetingCount": "39",
+      "resourceCount": "462",
+      "shortName": "APSA",
+      "logo": null
+  },
+  {
+      "id": 35,
+      "orgId": null,
+      "orgName": "American Real Estate and Urban Economics Association",
+      "meetingCount": "7",
+      "resourceCount": "5",
+      "shortName": "AREUEA",
+      "logo": null
+  },
+  {
+      "id": 42,
+      "orgId": null,
+      "orgName": "American Society for Engineering Education",
+      "meetingCount": "179",
+      "resourceCount": "30066",
+      "shortName": "ASEE",
+      "logo": null
+  },
+  {
+      "id": 47,
+      "orgId": null,
+      "orgName": "American Society for Microbiology",
+      "meetingCount": "64",
+      "resourceCount": "528",
+      "shortName": "ASM",
+      "logo": null
+  },
+  {
+      "id": 51,
+      "orgId": null,
+      "orgName": "American Society for Photogrammetry and Remote Sensing",
+      "meetingCount": "23",
+      "resourceCount": "1114",
+      "shortName": "ASPRS",
+      "logo": null
+  },
+  {
+      "id": 50,
+      "orgId": null,
+      "orgName": "American Society for Precision Engineering",
+      "meetingCount": "31",
+      "resourceCount": "1476",
+      "shortName": "ASPE",
+      "logo": null
+  },
+  {
+      "id": 49,
+      "orgId": null,
+      "orgName": "American Society for Public Administration",
+      "meetingCount": "5",
+      "resourceCount": "38",
+      "shortName": "ASPA",
+      "logo": null
+  },
+  {
+      "id": 38,
+      "orgId": null,
+      "orgName": "American Society of Civil Engineers",
+      "meetingCount": "68",
+      "resourceCount": "1468",
+      "shortName": "ASCE",
+      "logo": null
+  },
+  {
+      "id": 44,
+      "orgId": null,
+      "orgName": "American Society of Heating, Refrigeration and Air-conditioning Engineer",
+      "meetingCount": "14",
+      "resourceCount": "81",
+      "shortName": "ASHRAE",
+      "logo": null
+  },
+  {
+      "id": 46,
+      "orgId": null,
+      "orgName": "American Society of Landscape Architects",
+      "meetingCount": "12",
+      "resourceCount": "307",
+      "shortName": "ASLA",
+      "logo": null
+  },
+  {
+      "id": 48,
+      "orgId": null,
+      "orgName": "American Society of Mechanical Engineering",
+      "meetingCount": "335",
+      "resourceCount": "10779",
+      "shortName": "ASME",
+      "logo": null
+  },
+  {
+      "id": 37,
+      "orgId": null,
+      "orgName": "American Sociological Association",
+      "meetingCount": "56",
+      "resourceCount": "868",
+      "shortName": "ASA",
+      "logo": null
+  },
+  {
+      "id": 54,
+      "orgId": null,
+      "orgName": "American Translators Association",
+      "meetingCount": "10",
+      "resourceCount": "82",
+      "shortName": "ATA",
+      "logo": null
+  },
+  {
+      "id": 45,
+      "orgId": null,
+      "orgName": "Asian Finance Association",
+      "meetingCount": "2",
+      "resourceCount": "246",
+      "shortName": "AsianFA",
+      "logo": null
+  },
+  {
+      "id": 52,
+      "orgId": null,
+      "orgName": "Asian Real Estate Society",
+      "meetingCount": "6",
+      "resourceCount": "20",
+      "shortName": "ASRES",
+      "logo": null
+  },
+  {
+      "id": 11,
+      "orgId": null,
+      "orgName": "Association for Computational Linguistics",
+      "meetingCount": "307",
+      "resourceCount": "13138",
+      "shortName": "ACL",
+      "logo": null
+  },
+  {
+      "id": 12,
+      "orgId": null,
+      "orgName": "Association for Computing Machinery",
+      "meetingCount": "1331",
+      "resourceCount": "17592",
+      "shortName": "ACM",
+      "logo": null
+  },
+  {
+      "id": 17,
+      "orgId": null,
+      "orgName": "Association for Education of Journalism and Mass Communication",
+      "meetingCount": "8",
+      "resourceCount": "16",
+      "shortName": "AEJMC",
+      "logo": null
+  },
+  {
+      "id": 16,
+      "orgId": null,
+      "orgName": "Association for educational communications & technology",
+      "meetingCount": "1",
+      "resourceCount": "7",
+      "shortName": "AECT",
+      "logo": null
+  },
+  {
+      "id": 3,
+      "orgId": null,
+      "orgName": "Association for the Advancement of Artificial Intelligence",
+      "meetingCount": "137",
+      "resourceCount": "8862",
+      "shortName": "AAAI",
+      "logo": null
+  },
+  {
+      "id": 6,
+      "orgId": null,
+      "orgName": "Association of American Geographers",
+      "meetingCount": "13",
+      "resourceCount": "11",
+      "shortName": "AAG",
+      "logo": null
+  },
+  {
+      "id": 13,
+      "orgId": null,
+      "orgName": "Association of Consumer Research",
+      "meetingCount": "13",
+      "resourceCount": "1184",
+      "shortName": "ACR",
+      "logo": null
+  },
+  {
+      "id": 39,
+      "orgId": null,
+      "orgName": "Association of School and College Leaders",
+      "meetingCount": "1",
+      "resourceCount": "5",
+      "shortName": "ASCL",
+      "logo": null
+  },
+  {
+      "id": 123,
+      "orgId": null,
+      "orgName": "Biophysical Society",
+      "meetingCount": "8",
+      "resourceCount": "1160",
+      "shortName": "",
+      "logo": null
+  },
+  {
+      "id": 55,
+      "orgId": null,
+      "orgName": "British Educational Research Association",
+      "meetingCount": "5",
+      "resourceCount": "284",
+      "shortName": "BERA",
+      "logo": null
+  },
+  {
+      "id": 56,
+      "orgId": null,
+      "orgName": "Comparative and International Education Society",
+      "meetingCount": "10",
+      "resourceCount": "25",
+      "shortName": "CIES",
+      "logo": null
+  },
+  {
+      "id": 63,
+      "orgId": null,
+      "orgName": "Ecological Society of America",
+      "meetingCount": "103",
+      "resourceCount": "1005",
+      "shortName": "ESA",
+      "logo": null
+  },
+  {
+      "id": 125,
+      "orgId": null,
+      "orgName": "Economic Science Association",
+      "meetingCount": "1",
+      "resourceCount": "98",
+      "shortName": "",
+      "logo": null
+  },
+  {
+      "id": 57,
+      "orgId": null,
+      "orgName": "European Accounting Association",
+      "meetingCount": "10",
+      "resourceCount": "1323",
+      "shortName": "EAA",
+      "logo": null
+  },
+  {
+      "id": 59,
+      "orgId": null,
+      "orgName": "European Association of Urology",
+      "meetingCount": "21",
+      "resourceCount": "369",
+      "shortName": "EAU",
+      "logo": null
+  },
+  {
+      "id": 60,
+      "orgId": null,
+      "orgName": "European Economic Association",
+      "meetingCount": "25",
+      "resourceCount": "8598",
+      "shortName": "EEA",
+      "logo": null
+  },
+  {
+      "id": 61,
+      "orgId": null,
+      "orgName": "European Finance Association",
+      "meetingCount": "10",
+      "resourceCount": "944",
+      "shortName": "EFA",
+      "logo": null
+  },
+  {
+      "id": 62,
+      "orgId": null,
+      "orgName": "European Hematology Association",
+      "meetingCount": "7",
+      "resourceCount": "503",
+      "shortName": "EHA",
+      "logo": null
+  },
+  {
+      "id": 67,
+      "orgId": null,
+      "orgName": "Financial Intermediation Society",
+      "meetingCount": "2",
+      "resourceCount": "21",
+      "shortName": "FIRS",
+      "logo": null
+  },
+  {
+      "id": 68,
+      "orgId": null,
+      "orgName": "Financial Management Association",
+      "meetingCount": "59",
+      "resourceCount": "12751",
+      "shortName": "FMA",
+      "logo": null
+  },
+  {
+      "id": 69,
+      "orgId": null,
+      "orgName": "Health Physics Society",
+      "meetingCount": "3",
+      "resourceCount": "29",
+      "shortName": "HPS",
+      "logo": null
+  },
+  {
+      "id": 127,
+      "orgId": null,
+      "orgName": "Higher Education Academy",
+      "meetingCount": "5",
+      "resourceCount": "24",
+      "shortName": "",
+      "logo": null
+  },
+  {
+      "id": 128,
+      "orgId": null,
+      "orgName": "Human Factors and Ergonomics Society",
+      "meetingCount": "41",
+      "resourceCount": "935",
+      "shortName": "",
+      "logo": null
+  },
+  {
+      "id": 86,
+      "orgId": null,
+      "orgName": "Institute for Operations Research and the Management Sciences",
+      "meetingCount": "51",
+      "resourceCount": "554",
+      "shortName": "INFORMS",
+      "logo": null
+  },
+  {
+      "id": 82,
+      "orgId": null,
+      "orgName": "Institute of Electrical and Electronics Engineers",
+      "meetingCount": "7473",
+      "resourceCount": "178393",
+      "shortName": "IEEE",
+      "logo": null
+  },
+  {
+      "id": 87,
+      "orgId": null,
+      "orgName": "Institute of Navigation",
+      "meetingCount": "421",
+      "resourceCount": "1838",
+      "shortName": "ION",
+      "logo": null
+  },
+  {
+      "id": 83,
+      "orgId": null,
+      "orgName": "Institution of Engineering and Technology",
+      "meetingCount": "63",
+      "resourceCount": "46",
+      "shortName": "IET",
+      "logo": null
+  },
+  {
+      "id": 89,
+      "orgId": null,
+      "orgName": "Internation Studies Association",
+      "meetingCount": "69",
+      "resourceCount": "822",
+      "shortName": "ISA",
+      "logo": null
+  },
+  {
+      "id": 71,
+      "orgId": null,
+      "orgName": "International academy of ceramics",
+      "meetingCount": "19",
+      "resourceCount": "33",
+      "shortName": "IAC",
+      "logo": null
+  },
+  {
+      "id": 70,
+      "orgId": null,
+      "orgName": "International Association for Bridge and Structural Engineering",
+      "meetingCount": "6",
+      "resourceCount": "32",
+      "shortName": "IABSE",
+      "logo": null
+  },
+  {
+      "id": 75,
+      "orgId": null,
+      "orgName": "International Association for Media and Communication Research",
+      "meetingCount": "5",
+      "resourceCount": "21",
+      "shortName": "IAMCR",
+      "logo": null
+  },
+  {
+      "id": 73,
+      "orgId": null,
+      "orgName": "International Association of Hydro Environment Engineering and Research",
+      "meetingCount": "34",
+      "resourceCount": "2805",
+      "shortName": "IAHR",
+      "logo": null
+  },
+  {
+      "id": 76,
+      "orgId": null,
+      "orgName": "International Association of Science and Technology for Development",
+      "meetingCount": "436",
+      "resourceCount": "685",
+      "shortName": "IASTED",
+      "logo": null
+  },
+  {
+      "id": 72,
+      "orgId": null,
+      "orgName": "International Astronautical Federation",
+      "meetingCount": "15",
+      "resourceCount": "13",
+      "shortName": "IAF",
+      "logo": null
+  },
+  {
+      "id": 77,
+      "orgId": null,
+      "orgName": "International Communication Association",
+      "meetingCount": "72",
+      "resourceCount": "1992",
+      "shortName": "ICA",
+      "logo": null
+  },
+  {
+      "id": 80,
+      "orgId": null,
+      "orgName": "International Comparative Literature Association",
+      "meetingCount": "6",
+      "resourceCount": "39",
+      "shortName": "ICLA",
+      "logo": null
+  },
+  {
+      "id": 81,
+      "orgId": null,
+      "orgName": "International Continence Society",
+      "meetingCount": "106",
+      "resourceCount": "9278",
+      "shortName": "ICS",
+      "logo": null
+  },
+  {
+      "id": 85,
+      "orgId": null,
+      "orgName": "International Federation for Heat Treatment and Surface Engineering",
+      "meetingCount": "4",
+      "resourceCount": "159",
+      "shortName": "IFHTSE",
+      "logo": null
+  },
+  {
+      "id": 84,
+      "orgId": null,
+      "orgName": "International Federation of Automatic Control",
+      "meetingCount": "361",
+      "resourceCount": "14910",
+      "shortName": "IFAC",
+      "logo": null
+  },
+  {
+      "id": 88,
+      "orgId": null,
+      "orgName": "International Political Science Association",
+      "meetingCount": "70",
+      "resourceCount": "2799",
+      "shortName": "IPSA",
+      "logo": null
+  },
+  {
+      "id": 106,
+      "orgId": null,
+      "orgName": "International Society for Optics and Photonics",
+      "meetingCount": "354",
+      "resourceCount": "350",
+      "shortName": "SPIE",
+      "logo": null
+  },
+  {
+      "id": 91,
+      "orgId": null,
+      "orgName": "International Society of Biomechanics",
+      "meetingCount": "22",
+      "resourceCount": "4104",
+      "shortName": "ISB",
+      "logo": null
+  },
+  {
+      "id": 90,
+      "orgId": null,
+      "orgName": "International Sociological Association",
+      "meetingCount": "72",
+      "resourceCount": "886",
+      "shortName": "ISA",
+      "logo": null
+  },
+  {
+      "id": 93,
+      "orgId": null,
+      "orgName": "International Solid Waste Association",
+      "meetingCount": "7",
+      "resourceCount": "314",
+      "shortName": "ISWA",
+      "logo": null
+  },
+  {
+      "id": 92,
+      "orgId": null,
+      "orgName": "International Speech Communication Association",
+      "meetingCount": "64",
+      "resourceCount": "7079",
+      "shortName": "ISCA",
+      "logo": null
+  },
+  {
+      "id": 110,
+      "orgId": null,
+      "orgName": "International Union of Architects",
+      "meetingCount": "5",
+      "resourceCount": "34",
+      "shortName": "UIA",
+      "logo": null
+  },
+  {
+      "id": 94,
+      "orgId": null,
+      "orgName": "International Union of Forest Research Organizations",
+      "meetingCount": "71",
+      "resourceCount": "544",
+      "shortName": "IUFRO",
+      "logo": null
+  },
+  {
+      "id": 133,
+      "orgId": null,
+      "orgName": "Linguistic Society of America",
+      "meetingCount": "5",
+      "resourceCount": "137",
+      "shortName": "",
+      "logo": null
+  },
+  {
+      "id": 96,
+      "orgId": null,
+      "orgName": "National Bureau of Economic Research",
+      "meetingCount": "31",
+      "resourceCount": "76",
+      "shortName": "NBER",
+      "logo": null
+  },
+  {
+      "id": 134,
+      "orgId": null,
+      "orgName": "National Communication Association",
+      "meetingCount": "6",
+      "resourceCount": "19",
+      "shortName": "",
+      "logo": null
+  },
+  {
+      "id": 98,
+      "orgId": null,
+      "orgName": "Optical Society of America",
+      "meetingCount": "40",
+      "resourceCount": "32",
+      "shortName": "OSA",
+      "logo": null
+  },
+  {
+      "id": 99,
+      "orgId": null,
+      "orgName": "Power Engineering Society",
+      "meetingCount": "57",
+      "resourceCount": "2186",
+      "shortName": "PES",
+      "logo": null
+  },
+  {
+      "id": 103,
+      "orgId": null,
+      "orgName": "Society for Industrial and Applied Mathematics",
+      "meetingCount": "158",
+      "resourceCount": "1440",
+      "shortName": "SIAM",
+      "logo": null
+  },
+  {
+      "id": 104,
+      "orgId": null,
+      "orgName": "Society for Mining, Metallurgy & Exploration",
+      "meetingCount": "50",
+      "resourceCount": "111",
+      "shortName": "SME",
+      "logo": null
+  },
+  {
+      "id": 102,
+      "orgId": null,
+      "orgName": "Society for Neuroscience",
+      "meetingCount": "6",
+      "resourceCount": "12",
+      "shortName": "SFN",
+      "logo": null
+  },
+  {
+      "id": 107,
+      "orgId": null,
+      "orgName": "Society for Psychophysiological Research",
+      "meetingCount": "8",
+      "resourceCount": "5",
+      "shortName": "SPR",
+      "logo": null
+  },
+  {
+      "id": 1,
+      "orgId": null,
+      "orgName": "Society for Social Studies of Science",
+      "meetingCount": "7",
+      "resourceCount": "284",
+      "shortName": "4S",
+      "logo": null
+  },
+  {
+      "id": 100,
+      "orgId": null,
+      "orgName": "Society of Automotive Engineers",
+      "meetingCount": "85",
+      "resourceCount": "1148",
+      "shortName": "SAE",
+      "logo": null
+  },
+  {
+      "id": 101,
+      "orgId": null,
+      "orgName": "Society of Engineering Science",
+      "meetingCount": "42",
+      "resourceCount": "26",
+      "shortName": "SES",
+      "logo": null
+  },
+  {
+      "id": 109,
+      "orgId": null,
+      "orgName": "The Minerals, Metals ＆Materials Society",
+      "meetingCount": "278",
+      "resourceCount": "6",
+      "shortName": "TMS",
+      "logo": null
+  },
+  {
+      "id": 108,
+      "orgId": null,
+      "orgName": "Tissue Engineering and Regenerative Medicine International Society",
+      "meetingCount": "5",
+      "resourceCount": "600",
+      "shortName": "TERMIS",
+      "logo": null
+  },
+  {
+      "id": 138,
+      "orgId": null,
+      "orgName": "Western Finance Association",
+      "meetingCount": "6",
+      "resourceCount": "714",
+      "shortName": "",
+      "logo": null
+  }
+]
