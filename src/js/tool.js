@@ -9,15 +9,13 @@
     sortByAlphabet: function(arr, field) {
         // 根据 field 添加
         var res = [];
-        var alphabet = this.alphabet; // 字母表
-        for (var i = 0; i < alphabet.length; i++) {
+        for (var i = 0; i < this.alphabet.length; i++) {
             var resItem = []; // 单项的字母数组
-            var item = alphabet[i]; // 单项字母
+            var item = this.alphabet[i]; // 单项字母
             for (var j = 0; j < arr.length; j++) {
                 var one = arr[j];
                 one.type = one[field].slice(0, 1).toLowerCase();
                 one.field = one[field];
-                // 添加随机图片
                 (one.type === item) && resItem.push(one);
             }
             resItem.length && res.push(resItem);
