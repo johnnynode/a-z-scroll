@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/johnnynode/a-z-scroll/issues"
   },
-  "homepage": "https://github.com/johnnynode/a-z-scroll#readme"
+  "homepage": "https://github.com/johnnynode/a-z-scroll#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-open": "^3.0.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-watch": "^5.0.0",
+    "process": "^0.11.10",
+    "run-sequence": "^2.2.1"
+  }
 }
