@@ -1,10 +1,14 @@
 A-Z-Scroll Demo
 ---
 
-### Install
+### Clone
 
 - $ `git clone git@github.com:johnnynode/a-z-scroll.git --depth 1`
 
-### run
+### Install
+
+- $ `yarn install` or `npm i`
+
+### Run
 
 - $ `gulp server`
